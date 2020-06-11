@@ -35,11 +35,13 @@ body{
 }
 .alphabets{
     background-color: white;
+    font-size: 2rem;
+    font-weight: 600;
     border:none;
-    height: 3.5rem;
-    width: 3.5rem;
+    height: 4rem;
+    width: 4rem;
     padding: 1rem;
-    margin: .5rem;
+    margin: 1rem;
     border-radius: 5px;
     outline: none;
     color: #009432;
@@ -56,7 +58,17 @@ h3{
     font-weight: 300;
 }
 .answerArea{
-    letter-spacing: 3px;
+    letter-spacing: 0.8rem;
     font-size: 6rem;
     font-weight: 300;   
+}
+.playAgain{
+    color: #009432;
+    background-color: white;
+    border: none;
+    outline: none;
+    padding: 1.5rem 3rem;
+    border-radius: 5rem;
+    font-size: 2rem;
+    box-shadow: 0 0 5px 5px rgba(0, 0, 0, 0.1);
 }
