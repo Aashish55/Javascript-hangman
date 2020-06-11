@@ -1,0 +1,67 @@
+[
+    {
+        "hint":"Programming Language",
+        "value":"Javascript"
+    },
+    {
+        "hint":"Programming Language",
+        "value":"Python"
+    },
+    {
+        "hint":"Language",
+        "value":"Dutch"
+    },
+    {
+        "hint":"Language",
+        "value":"French"
+    },
+    {
+        "hint":"Costume",
+        "value":"Daura Suruwal"
+    },
+    {
+        "hint":"Food",
+        "value":"Pizza"
+    },
+    {
+        "hint":"Liquid",
+        "value":"Water"
+    },
+    {
+        "hint":"Occupation",
+        "value":"Business"
+    },
+    {
+        "hint":"Couple",
+        "value":"Pair"
+    },
+    {
+        "hint":"Fruit",
+        "value":"Watermelon"
+    },
+    {
+        "hint":"Fruit",
+        "value":"Kiwi"
+    },
+    {
+        "hint":"Bird",
+        "value":"Kiwi"
+    },
+    {
+        "hint":"Place",
+        "value":"Dhulikhel"
+    },
+    {
+        "hint":"Transport",
+        "value":"Rickshaw"
+    },
+    {
+        "hint":"Math",
+        "value":"Algebra"
+    },
+    {
+        "hint":"Physics",
+        "value":"Gravity"
+    }
+
+]

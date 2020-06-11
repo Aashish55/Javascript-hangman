@@ -41,6 +41,7 @@ body{
     padding: 1rem;
     margin: .5rem;
     border-radius: 5px;
+    outline: none;
     color: #009432;
     box-shadow: 0 0 1px 5px rgba(128, 128, 128, 0.253);
     text-align: center;
