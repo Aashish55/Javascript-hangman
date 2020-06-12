@@ -1,7 +1,7 @@
 [
     {
         "hint":"Programming Language",
-        "value":"Javascript"
+        "value":"CSharp"
     },
     {
         "hint":"Programming Language",
@@ -21,15 +21,11 @@
     },
     {
         "hint":"Food",
-        "value":"Pizza"
+        "value":"Chowmein"
     },
     {
         "hint":"Liquid",
         "value":"Water"
-    },
-    {
-        "hint":"Occupation",
-        "value":"Business"
     },
     {
         "hint":"Couple",
@@ -37,7 +33,7 @@
     },
     {
         "hint":"Fruit",
-        "value":"Watermelon"
+        "value":"Pear"
     },
     {
         "hint":"Fruit",
@@ -56,8 +52,8 @@
         "value":"Rickshaw"
     },
     {
-        "hint":"Math",
-        "value":"Algebra"
+        "hint":"Biology",
+        "value":"Life"
     },
     {
         "hint":"Physics",

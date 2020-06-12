@@ -9,6 +9,30 @@ html{
     font-family: -apple-system, 'Segoe UI',  'Open Sans', 'Helvetica Neue', sans-serif;
     color: white;
 }
+@media only screen and (max-width: 880px) {
+    html {
+      font-size: 9px;
+    }
+  }
+@media only screen and (max-width: 600px) {
+    html {
+      font-size: 8px;
+    }
+    h3{
+        margin: 0 5rem;
+    }
+    
+}
+@media only screen and (max-width:350px){
+    html {
+        font-size: 7px;
+      }
+}
+@media only screen and (max-width:290px){
+    html {
+        font-size: 6px;
+      }
+}
 
 body{
     background-image: linear-gradient(to right bottom,#ADFF2F ,#C4E538) ;
@@ -45,7 +69,7 @@ body{
     border-radius: 5px;
     outline: none;
     color: #009432;
-    box-shadow: 0 0 1px 5px rgba(128, 128, 128, 0.253);
+    box-shadow: 0 0 10px 5px rgba(128, 128, 128, 0.3);
     text-align: center;
 }
 h1{
@@ -56,6 +80,7 @@ h1{
 h3{
     font-size: 3rem;
     font-weight: 300;
+    text-align: center;
 }
 .answerArea{
     letter-spacing: 0.8rem;
