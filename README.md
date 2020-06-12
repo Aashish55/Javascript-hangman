@@ -3,6 +3,8 @@
 <br>
 <h4>This Game is just for developing basic knowledge.<h4>
  <br>
+ Datas are fetches from local json file attached with the project.
+ <br>
  You can play this game with the given link.
   <br>
   <a href="https://javascript-hangman-aj.netlify.app/">JavaScript-Hangman-AJ</a>
